@@ -33,7 +33,7 @@ Here are some ideas to get you started:
 
 - 🔭 I’m currently learning more about data structures and algorithms.
 
-- 🌱 I’m currently pursuing Masters in Computer Engineering from New York University.
+- 🌱 I currently completed Masters in Computer Engineering from New York University.
 
 - 👯 I’m looking to collaborate for any interesting projects.
 
